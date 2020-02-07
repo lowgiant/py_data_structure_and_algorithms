@@ -38,3 +38,6 @@
 
         11) unpacking
         리스트의 여러개의 변수를 나누어 담는 것 방법
+
+        12) list_comprehension
+        반복문 표현 식
