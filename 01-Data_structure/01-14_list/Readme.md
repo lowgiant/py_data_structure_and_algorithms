@@ -41,3 +41,6 @@
 
         12) list_comprehension
         반복문 표현 식
+
+        13) bites(x)
+        바이트 타입 확인
