@@ -18,4 +18,5 @@
         03) update(e)
           A |= B A를 B에 추가한다.(합집합)
 
-        
+        04) union(e)
+         update와 비슷하지만 union은 복사본을 반환한다.
