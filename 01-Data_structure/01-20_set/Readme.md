@@ -20,3 +20,6 @@
 
         04) union(e)
          update와 비슷하지만 union은 복사본을 반환한다.
+
+        05) intersection()
+        a & b는 A와 B의 교집합의 복사본을 반환한다.
