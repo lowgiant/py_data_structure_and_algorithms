@@ -23,3 +23,6 @@
 
         05) intersection()
         a & b는 A와 B의 교집합의 복사본을 반환한다.
+
+        06) difference()
+        A - B는 A와 B의 차집합의 복사본을 반환한다.
