@@ -23,3 +23,6 @@
 
                 6) break
                 반복문에서 break 키워드를 만나면 나오게 됩니다. 
+
+                7) continue
+                반복문에서 continue를 만나면 해당 반복을 지나간다.
